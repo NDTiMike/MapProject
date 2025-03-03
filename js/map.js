@@ -33,7 +33,24 @@ window.addEventListener('load', function() {
     }
     marker.bindTooltip(name + ": " + message);
   }
-  
+  // Create a legend control and add it to the map.
+var legend = L.control({ position: 'topleft' });
+
+legend.onAdd = function (map) {
+  var div = L.DomUtil.create('div', 'info legend');
+  // Create a legend with colored squares and labels.
+  div.innerHTML += '<i style="background: purple"></i> Community Led Support<br>';
+  div.innerHTML += '<i style="background: red"></i> Commissioned Contract<br>';
+  div.innerHTML += '<i style="background: blue"></i> Mike Rules OK<br>';
+  div.innerHTML += '<i style="background: yellow"></i> Small Supports<br>';
+  div.innerHTML += '<i style="background: green"></i> NDTi Programme<br>';
+  div.innerHTML += '<i style="background: gray"></i> Inactive<br>';
+  // Add as many entries as you need.
+  return div;
+};
+
+legend.addTo(map);
+
   // Fetch and parse the CSV file (markers.csv should be in the project root)
   fetch('markers.csv')
     .then(function(response) {
