@@ -1,5 +1,6 @@
 name,lat,lng,message,color
-York,53.959,-1.0873,York: CLS work here,purple
+name,lat,lng,message,color
+York,53.959,-1.0873,CLS work here,purple
 Warrington,53.39,-2.5969,Warrington: CLS work here,purple
 Isle of Wight,50.6938,-1.3047,Isle of Wight: LD & MH Commission,yellow
 South Ayrshire,55.3561,-4.6265,South Ayrshire: CLS work here,purple
@@ -22,3 +23,16 @@ Orkney,58.9847,-2.9594,Orkney: CLS work here,gray
 Swindon,51.5558,-1.7797,Swindon: CLS work here,purple
 Stockton on Tees,54.5685,-1.3187,Stockton on Tees: CLS work here,purple
 Warwickshire,52.2819,-1.5845,Warwickshire: CLS work here,gray
+"NHS Buckinghamshire, Oxfordshire and Berkshire West ",51.9999,-0.9881,"Buckinghamshire, Oxfordshire and Berkshire West: C(E)TR work here",blue
+NHS Frimley,51.3134,-0.7379,Frimley: C(E)TR work here,blue
+NHS Hampshire and Isle of Wight ,50.9097,-1.4044,Hampshire and Isle of Wight: C(E)TR work here,blue
+NHS Kent and Medway,51.2802,1.0789,Kent and Medway: C(E)TR work here,blue
+NHS Surrey Heartlands,51.2362,-0.5704,Surrey Heartlands: C(E)TR work here,blue
+"NHS Sussex (ICS includes former Brighton & Hove, West Sussex and East Sussex CCG regions)",51.0009,-0.1015,"Sussex (ICS includes former Brighton & Hove, West Sussex and East Sussex CCG regions): C(E)TR work here",blue
+"NHS Bath and North East Somerset, Swindon and Wiltshire",51.3782,-2.3621,"Bath and North East Somerset, Swindon and Wiltshire: C(E)TR work here",blue
+"NHS Bristol, North Somerset and South Gloucestershire",51.4545,-2.5884,"Bristol, North Somerset and South Gloucestershire: C(E)TR work here",blue
+NHS Devon,50.9291,-3.3923,Devon: C(E)TR work here,blue
+NHS Dorset,50.9731,-2.1532,Dorset: C(E)TR work here,blue
+NHS Gloucestershire,51.8643,-2.2298,Gloucestershire: C(E)TR work here,blue
+NHS Cornwall & The Isles of Scilly (formerly known as Kernow CCG),50.4702,-4.7019,Cornwall & The Isles of Scilly (formerly known as Kernow CCG): C(E)TR work here,blue
+NHS Somerset,51.0124,-3.0944,Somerset: C(E)TR work here,blue
