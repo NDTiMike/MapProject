@@ -41,9 +41,7 @@ legend.onAdd = function (map) {
   // Create a legend with colored squares and labels.
   div.innerHTML += '<i style="background: purple"></i> Community Led Support<br>';
   div.innerHTML += '<i style="background: red"></i> Commissioned Contract<br>';
-  div.innerHTML += '<i style="background: blue"></i> Mike Rules OK<br>';
-  div.innerHTML += '<i style="background: yellow"></i> Small Supports<br>';
-  div.innerHTML += '<i style="background: green"></i> NDTi Programme<br>';
+  div.innerHTML += '<i style="background: light blue"></i> C(E)TR<br>';
   div.innerHTML += '<i style="background: gray"></i> Inactive<br>';
   // Add as many entries as you need.
   return div;
