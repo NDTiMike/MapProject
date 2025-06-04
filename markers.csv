@@ -1,4 +1,5 @@
 name,lat,lng,message,color
+name,lat,lng,message,color
 York,53.959,-1.0873,CLS work here,purple
 Warrington,53.39,-2.5969,Warrington: CLS work here,purple
 Isle of Wight,50.6938,-1.3047,Isle of Wight: LD & MH Commission,yellow
@@ -30,3 +31,13 @@ NHS Dorset,50.9731,-2.1532,Dorset: C(E)TR work here,darkblue
 NHS Gloucestershire,51.8643,-2.2298,Gloucestershire: C(E)TR work here,darkblue
 NHS Cornwall & The Isles of Scilly (formerly known as Kernow CCG),50.4702,-4.7019,Cornwall & The Isles of Scilly (formerly known as Kernow CCG): C(E)TR work here,darkblue
 NHS Somerset,51.0124,-3.0944,Somerset: C(E)TR work here,darkblue
+Leeds,53.65,-1.45,Leeds: R&E work here,green
+Plymouth,50.3833,-4.1333,Plymouth: R&E work here,green
+Lancashire,53.8333,-2.5,Lancashire: R&E work here,green
+London ,51.4778,0,London: R&E work here,green
+Redbridge & Brent,51.5672,0.271,Redbridge & Brent: R&E work here,green
+Medway & Kent,51.4167,0.5,Medway & Kent: R&E work here,green
+Somerset,51.1475,-2.7208,Somerset: R&E work here,green
+Devon & Torbay,50.4516,-3.5578,Devon & Torbay: R&E work here,green
+Gloucester,51.36,-2.1,Gloucester: R&E work here,green
+Leicester,52.6368,-1.1397,Leicester: R&E work here,green
